@@ -56,8 +56,8 @@ var otherUrls = [
 ];
 var foreverUrls = [
 	'https://18hdm.com',
-	'https://18hdm.cc',
-	'https://18hdm.co',
+	//'https://18hdm.cc',
+	//'https://18hdm.co',
 	JumpPage
 ];
 var notices = [
