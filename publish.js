@@ -55,7 +55,7 @@ var otherUrls = [
 	'https://18hdm.netlify.app',
 ];
 var foreverUrls = [
-	'https://18hdm.com',
+	'https://18hdm.iuuswsfu.top',
 	//'https://18hdm.cc',
 	//'https://18hdm.co',
 	JumpPage
