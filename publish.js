@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'18dm.hdmhub.com/',
+	'aggpwrfb.top',
 ];
                                                                                                                   
 var JumpPage="https://18hdm.net";
