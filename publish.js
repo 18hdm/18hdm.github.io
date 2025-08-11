@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'tchlpdx.top',
+	'twbprup.org',
 ];
                                                                                                                   
 var JumpPage="https://18hdm.net";
