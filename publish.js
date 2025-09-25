@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'twbprup.org',
+	'lbtjoljn.xyz',
 ];
                                                                                                                   
 var JumpPage="https://18hdm.net";
