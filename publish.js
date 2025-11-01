@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'lbtjoljn.xyz',
+	'xgfphms.cc',
 ];
                                                                                                                   
 var JumpPage="https://18hdm.net";
