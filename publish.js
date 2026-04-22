@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'ggliafau.com',
+	'xwdwpsbx.cc',
 ];
                                                                                                                   
 var JumpPage="https://18hdm.net";
