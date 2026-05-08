@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'kdycujieh.cc',
+	'wrpimoxe.com',
 ];
                                                                                                                   
 var JumpPage="https://18hdm.net";
