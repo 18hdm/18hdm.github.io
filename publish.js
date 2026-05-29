@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'cztzatdk.com',
+	'yrvyhoyf.cc',
 ];
                                                                                                                   
 var JumpPage="https://18hdm.net";
