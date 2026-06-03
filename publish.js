@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'fbinilopt.cc',
+	'oassssuu.cc',
 ];
                                                                                                                   
 var JumpPage="https://18hdm.net";
